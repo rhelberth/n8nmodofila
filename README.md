@@ -1,6 +1,6 @@
 # n8nmodofila
 Como instalar o N8N em modo fila
-
+https://www.youtube.com/watch?v=MUnvtl1bD7k
 ## 1. Instalar Postgres e Redis
 ```
 {
